@@ -1,2 +1,3 @@
-# Smart--accident-Alert-system
-IoT based vehicle accident detection and alert system using Raspberry Pi and SIM800
+# Smart Accident Alert System
+
+This project is under development.
