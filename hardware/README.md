@@ -1,4 +1,4 @@
-Hardware related information
+Smart Accident Alert System using ESP32 and SIM800
 ## Hardware Components
 - Raspberry Pi Zero W
 - SIM800 GSM module
